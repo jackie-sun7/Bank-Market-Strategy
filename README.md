@@ -22,6 +22,10 @@ Use Random forest to fit the model. Check accuracy and feature importance.
 
 ## Evaluate the Results
 
+ - Juniors and elders are more inclined to accept market campaigns.
+ - Long contact duration and low frequency is a strategy to gain customers.
+ - Extreme economic condition is a great marketing opportunity.
+
 All of EDA charts are in output folder and detailed analysis at [Github wiki page](https://github.com/jackie-sun7/Bank-Market-Strategy/wiki/Bank-Market-Strategy-Data-Analysis).
 
 ## Package 
