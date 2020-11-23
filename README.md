@@ -28,5 +28,13 @@ Use Random forest to fit the model. Check accuracy and feature importance.
 
 All of EDA charts are in output folder and detailed analysis at [Github wiki page](https://github.com/jackie-sun7/Bank-Market-Strategy/wiki/Bank-Market-Strategy-Data-Analysis).
 
+## Files
+    - output/*: all EDA charts
+    - bank-additional-full.csv: dataset for data analysis, from [UCI Machine Learing Repository(https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#)
+    - EDA.ipynb: CRISP-DM process to analysis business problem
+
 ## Package 
 `pandas`, `numpy`, `matplotlib`, `sklearn`
+
+## Acknowledge 
+bank-additional-full.csv: dataset for data analysis, from [UCI Machine Learing Repository(https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#)
